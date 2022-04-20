@@ -59,7 +59,7 @@ NLTK package,
 Modern Web Browser
 Twitter API, Google API
 
-##Cotributors
+## Contributors
 - [Rachit Nigam] (https://github.com/Rachit747)
 * [Vidushi Gupta](https://github.com/Vidushi-Gupta)
 * [Abhimanyu Bhadauria](https://github.com/Mnayu)
